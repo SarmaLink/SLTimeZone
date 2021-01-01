@@ -9,4 +9,4 @@ This generates a file
 tzinfo
 
 rename it
-mv tzinfo SL_tzinfo.json
+mv tzinfo SL_tzinfo_unsorted.json
