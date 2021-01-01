@@ -6,7 +6,7 @@ run
 python2.7 build_tzinfo.py
 
 This generates a file
-tzdata
+tzinfo
 
 rename it
-mv tzdata SL_tzdata.json
+mv tzinfo SL_tzinfo.json
